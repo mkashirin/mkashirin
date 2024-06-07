@@ -1,6 +1,6 @@
 # Hi!
 
-My name is Micheal, I am a student at Russian Technological University MIREA. And I am obsessed with building 
+My name is Michael, I am a student at Russian Technological University MIREA. And I am obsessed with building 
 things from scratch!
 
 ## Languages

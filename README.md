@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi!
 
-<!--
-**mkashirin/mkashirin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Micheal, I am a student at Russian Technological University MIREA. And I am obsessed with building 
+things from scratch!
 
-Here are some ideas to get you started:
+## Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a native Python speaker... but also love Zig! And on my way to learn a bit of Rust.
+
+## Projects
+
+I like building ML and AI models with Python, and implement some low-level utilities with Zig.
+
+For example, you can check out Scratches for a comprehensive deep learning construction guide.
+Or if you would rather look at some proper low-level programming, Filez — a simple file buffer over TCP — might
+work for you.
+
+## Learning
+
+Currently I am more into systems programming and trying to work out a way towards bare metal programming with Zig.
+But I also do ML and AI research and experiments on regular basis.
+
+## Collaboration
+
+As of now, I did not really have any experience in collaboration, but if you have an interesting idea, hit me up!

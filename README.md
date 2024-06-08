@@ -13,9 +13,10 @@ bit of Rust.
 I like building ML and AI models with Python, and implement some low-level 
 utilities with Zig.
 
-For example, you can check out Scratches for a comprehensive deep learning 
-construction guide. Or if you would rather look at some low-level programming, 
-Filez — a simple file buffer over TCP — might work for you.
+For example, you can check out [Scratches](https://github.com/mkashirin/scratches) 
+for a comprehensive deep learning construction guide. Or if you would rather 
+look at some low-level programming, [Filez](https://github.com/mkashirin/filez) — a 
+simple file buffer over TCP — might work for you.
 
 ## Learning
 

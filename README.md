@@ -25,6 +25,4 @@ experiments on regular basis.
 
 ## Contacts
 
-Here're the links to contact me:
-* [Telegram](https://t.me/mk4shirin);
-* [Yandex.Mail](m.k4shirin@yandex.ru).
+You can either send me a message in [Telegram](https://t.me/mk4shirin) or an email on m.k4shirin@yandex.ru.

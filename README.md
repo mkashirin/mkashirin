@@ -12,7 +12,7 @@ I am a native Python speaker... but also love Zig! And on my way to learn a bit 
 I like building ML and AI models with Python, and implement some low-level utilities with Zig.
 
 For example, you can check out Scratches for a comprehensive deep learning construction guide.
-Or if you would rather look at some proper low-level programming, Filez — a simple file buffer over TCP — might
+Or if you would rather look at some low-level programming, Filez — a simple file buffer over TCP — might
 work for you.
 
 ## Learning

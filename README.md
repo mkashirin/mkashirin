@@ -15,8 +15,10 @@ utilities with Zig.
 
 For example, you can check out [Scratches](https://github.com/mkashirin/scratches) 
 for a comprehensive deep learning construction guide. Or if you would rather 
-look at some low-level programming, [Filez](https://github.com/mkashirin/filez) — a 
-simple file buffer over TCP — might work for you.
+look at some low-level programming there are: [Filez](https://github.com/mkashirin/filez) — a 
+simple file buffer over TCP; and [ZTCLI](https://github.com/mkashirin/ztcli) — minimal
+CLI that combines ZeroTier Central and ZeroTierOne Service essential
+functionality.
 
 ## Learning
 

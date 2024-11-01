@@ -20,7 +20,7 @@ functionality.
 ## Learning
 
 Currently I am more into systems programming and trying to work out a way 
-towards bare metal programming with Zig. But I also do ML and AI research and 
+towards Rust and Zig applications. But I also do ML and AI research and 
 experiments on regular basis.
 
 ## Contacts

@@ -1,12 +1,9 @@
-# Hi, I'm Michael!
-
 I am a student at Russian Technological University MIREA. And I'm obsessed 
 with building things from scratch!
 
 ## Languages
 
-I am a native Python speaker... but also love Zig! And on my way to learn a 
-bit of Rust.
+I am a native Python speaker, but also love Zig and  Rust.
 
 ## Projects
 
